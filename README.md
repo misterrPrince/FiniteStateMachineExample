@@ -1,2 +1,2 @@
 # FiniteStateMachineExample
- An Implementation of fsm with simple character setup
+ An implementation of fsm with simple character setup
